@@ -1,1 +1,1 @@
-# IBM-Health-AI
+# IBM-EduTutor-AI
